@@ -10,7 +10,7 @@ function App() {
     <>
       <BrowserRouter basename='/placement/'>
       <Routes>
-        <Route path='placement' element={<Placement/>}> 
+        <Route path='' element={<Placement/>}> 
          
         </Route>
       </Routes>
