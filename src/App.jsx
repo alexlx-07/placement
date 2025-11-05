@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename='/Working-Site/'>
+      <BrowserRouter basename='/placement/'>
       <Routes>
         <Route path='placement' element={<Placement/>}> 
          
